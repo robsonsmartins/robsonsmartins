@@ -1,16 +1,34 @@
-### Hi there 👋
+## Robson Martins
+#### MBA, IT Systems Analyst/Developer, Maker
 
-<!--
-**robsonsmartins/robsonsmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify">
+I'm a software analyst and developer, specialized in Java/SOA and with large experience in C/C++ language. Learning Data Science and Artificial Inteligence (Python, Machine Learning, NLP). Beginner in Mobile Development (Flutter, iOS and Android). Maker and Electronics Technician, with knowledge in Hardware, Embedded Electronics, IoT, Digital Electronics and Microchip PIC microcontroller development projects.
+</p>
 
-Here are some ideas to get you started:
+#### Programming Languages
+|<img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/java.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/python.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/php.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/kotlin.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/flutter.svg">|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Connect with me
+<p align="left">
+<a href="https://www.robsonmartins.com/">
+  <img align="left" alt="Home Page" width="24px" src="https://www.robsonmartins.com/icons/favicon-32x32.png">
+</a>
+<a href="https://www.linkedin.com/in/robsonmartins">
+  <img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg">
+</a>
+<a href="https://www.facebook.com/robsonmartins.br">
+  <img align="left" alt="Facebook" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg">
+</a>
+<a href="https://www.youtube.com/user/robsonsmar/videos">
+  <img align="left" alt="Youtube" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg">
+</a>
+<a href="https://www.instagram.com/robson.s.martins">
+  <img align="left" alt="Instagram" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg">
+</a>
+<a href="https://twitter.com/robsonsmar">
+  <img align="left" alt="Twitter" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg">
+</a>
+</p>
