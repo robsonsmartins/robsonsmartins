@@ -6,13 +6,34 @@ I'm a software analyst and developer, specialized in Java/SOA and with large exp
 </p>
 
 #### Programming Languages
-|<img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/java.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/python.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/php.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/kotlin.svg"> | <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/flutter.svg">|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+<p>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+  <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/java.svg">
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img align="left" width="48px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg">
+</a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+  <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/python.svg">
+</a>
+<a href="https://en.wikipedia.org/wiki/PHP">
+  <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/php.svg">
+</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+  <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg">
+</a>
+<a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
+  <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/kotlin.svg">
+</a>
+<a href="https://en.wikipedia.org/wiki/Flutter_(software)">
+  <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/flutter.svg">
+</a>  
 </p>
-
+<br/>
+<br/>
 
 #### Connect with me
-<p align="left">
+<p>
 <a href="https://www.robsonmartins.com/">
   <img align="left" alt="Home Page" width="24px" src="https://www.robsonmartins.com/icons/favicon-32x32.png">
 </a>
@@ -32,3 +53,5 @@ I'm a software analyst and developer, specialized in Java/SOA and with large exp
   <img align="left" alt="Twitter" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg">
 </a>
 </p>
+<br/>
+<br/>
