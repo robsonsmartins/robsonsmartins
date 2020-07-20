@@ -28,6 +28,9 @@ I'm a software analyst and developer, specialized in Java/SOA and with large exp
 <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
   <img align="left" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/flutter.svg">
 </a>  
+<a href="https://en.wikipedia.org/wiki/Assembly_language">
+  <img align="left" width="48px" src="https://www.robsonmartins.com/icons/apple-touch-icon-60x60.png">
+</a>  
 </p>
 <br/>
 <br/>
