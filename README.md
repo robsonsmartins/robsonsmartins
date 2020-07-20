@@ -40,7 +40,7 @@ I'm a software analyst and developer, specialized in Java/SOA and with large exp
 
 #### Connect with me
 <p>
-<a href="https://www.robsonmartins.com/">
+<a href="https://www.robsonmartins.com/" target="_blank">
   <img align="left" alt="Home Page" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/site.png">
 </a>
 <a href="https://www.linkedin.com/in/robsonmartins">
