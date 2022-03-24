@@ -46,7 +46,8 @@ I'm a software analyst and developer, specialized in Java/SOA and with large exp
 <a href="https://www.linkedin.com/in/robsonmartins">
   <img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/linkedin.svg">
 </a>
-<a href="https://www.facebook.com/robsonmartins.com.oficial">
+<!-- <a href="https://www.facebook.com/robsonmartins.com.oficial"> -->
+<a href="https://www.robsonmartins.com/error/disabled.php">
   <img align="left" alt="Facebook" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/facebook.svg">
 </a>
 <!-- <a href="https://www.youtube.com/user/robsonsmar/videos"> -->
