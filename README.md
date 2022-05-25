@@ -6,64 +6,58 @@ I'm a software analyst and developer, specialized in Java/SOA and with large exp
 </p>
 
 #### Programming Languages
-<p>
+
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/java.svg">
-</a>
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/java.svg">
+</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/c.svg">
-</a>
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/c.svg">
+</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/cpp.svg">
-</a>
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/cpp.svg">
+</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/python.svg">
-</a>
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/python.svg">
+</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/PHP">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/php.svg">
-</a>
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/php.svg">
+</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/javascript.svg">
-</a>
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/javascript.svg">
+</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/kotlin.svg">
-</a>
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/kotlin.svg">
+</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/flutter.svg">
-</a>  
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/flutter.svg">
+</a>&nbsp;  
 <a href="https://en.wikipedia.org/wiki/Assembly_language">
-  <img align="left" width="48px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/asm.svg">
+  <img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/asm.svg">
 </a>  
-</p>
-<br/>
-<br/>
 
 #### Connect with me
-<p>
 <a href="https://www.robsonmartins.com/" target="_blank">
-  <img align="left" alt="Home Page" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/site.png">
-</a>
+  <img alt="Home Page" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/site.png">
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/robsonmartins">
-  <img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/linkedin.svg">
-</a>
+  <img alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/linkedin.svg">
+</a>&nbsp;
 <a href="https://www.facebook.com/robsonmartins.br">
 <!-- <a href="https://www.facebook.com/robsonmartins.com.oficial"> -->
 <!-- <a href="https://www.robsonmartins.com/error/disabled.php"> -->
-  <img align="left" alt="Facebook" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/facebook.svg">
-</a>
+  <img alt="Facebook" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/facebook.svg">
+</a>&nbsp;
 <!-- <a href="https://www.youtube.com/user/robsonsmar/videos"> -->
 <a href="https://www.robsonmartins.com/error/disabled.php">
-  <img align="left" alt="Youtube" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/youtube.svg">
-</a>
+  <img alt="Youtube" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/youtube.svg">
+</a>&nbsp;
 <a href="https://www.instagram.com/robson.s.martins">
 <!-- <a href="https://www.robsonmartins.com/error/disabled.php"> -->
-  <img align="left" alt="Instagram" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/instagram.svg">
-</a>
+  <img alt="Instagram" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/instagram.svg">
+</a>&nbsp;
 <a href="https://twitter.com/robsonsmar">
-  <img align="left" alt="Twitter" width="24px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/twitter.svg">
+  <img alt="Twitter" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/twitter.svg">
 </a>
-</p>
-<br/>
 
 #### Main projects
 
