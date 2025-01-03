@@ -72,6 +72,7 @@ I'm a software analyst and developer, specialized in Java/SOA and with large exp
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/OSS%20Status-Dormant-blue.svg">
 
+- [Android MIDI Synth](https://github.com/robsonsmartins/android-midi-synth)
 - [Microchip PIC USB Programmer - PICkit 2 Clone (PK2C)](https://github.com/robsonsmartins/pk2c)
 - [8mm Tape Cleaner](https://github.com/robsonsmartins/tapecleaner8mm)
 - [MIDI-USB Adapter](https://github.com/robsonsmartins/midi-usb)
