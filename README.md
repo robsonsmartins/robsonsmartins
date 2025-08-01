@@ -68,10 +68,10 @@ Master's student in Electrical Engineering. Software development analyst, specia
 
 - [USB Flash/EPROM Programmer](https://github.com/robsonsmartins/usbflashprog)
 - [Free Publication Downloader](https://github.com/robsonsmartins/php-projects/tree/master/free-pub-downloader)
-- [Python (ML/IA/NLP) Projects](https://github.com/robsonsmartins/python-projects)
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/OSS%20Status-Dormant-blue.svg">
 
+- [Python (ML/IA/NLP) Projects](https://github.com/robsonsmartins/python-projects)
 - [Android MIDI Synth](https://github.com/robsonsmartins/android-midi-synth)
 - [Microchip PIC USB Programmer - PICkit 2 Clone (PK2C)](https://github.com/robsonsmartins/pk2c)
 - [8mm Tape Cleaner](https://github.com/robsonsmartins/tapecleaner8mm)
