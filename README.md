@@ -2,7 +2,7 @@
 #### Master’s Student in Electrical Engineering | Software Development Analyst | Embedded Systems Developer | University Professor <img src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/br.png">
 
 <p align="justify">
-Master's student in Electrical Engineering. Software development analyst, specialized in Java/SOA and with large experience in C/C++ language. Maker and Electronics Technician, with knowledge in Hardware, Embedded Electronics, IoT, Digital Electronics and Raspberry Pi Pico, Arduino, ESP32 and Microchip PIC microcontroller development projects. Currently enhancing knowledge in Data Science and Artificial Inteligence (Python, Machine Learning, NLP). Beginner in Mobile Development (Flutter, Android/Kotlin and iOS/Swift). Professor.
+Master's student in Electrical Engineering. Software development analyst, specialized in Java/SOA and with large experience in C/C++ language. Maker and Electronics Technician, with knowledge in Hardware, Embedded Electronics, IoT, Digital Electronics and Raspberry Pi Pico, Arduino, ESP32 and Microchip PIC microcontroller development projects. Intermediate in Android/Kotlin and beginner in Flutter and iOS/Swift. Currently enhancing knowledge in Data Science and Artificial Inteligence (Python, Machine Learning, NLP). Professor.
 </p>
 
 #### Programming Languages
