@@ -54,7 +54,7 @@ Master's student in Electrical Engineering. Software development analyst, specia
 <!-- <a href="https://www.robsonmartins.com/error/disabled.php"> -->
   <img alt="Youtube" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/youtube.svg">
 </a>&nbsp;
-<a href="https://www.instagram.com/robsonmartins.com.br" target="_blank">
+<a href="https://www.instagram.com/robsonmartins.br" target="_blank">
 <!-- <a href="https://www.robsonmartins.com/error/disabled.php"> -->
   <img alt="Instagram" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/instagram.svg">
 </a>&nbsp;
