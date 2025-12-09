@@ -25,6 +25,8 @@ Master's student in Electrical Engineering. Software development analyst, specia
 <a href="https://www.youtube.com/user/robsonsmar/videos" target="_blank"><img alt="Youtube" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/youtube.svg"></a>&nbsp;
 <a href="https://www.instagram.com/robsonmartins.br" target="_blank"><img alt="Instagram" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/instagram.svg"></a>&nbsp;
 <a href="https://x.com/robsonsmar" target="_blank"><img alt="X" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/x.svg"></a>&nbsp;
+<a href="https://lattes.cnpq.br/4405386317418110" target="_blank"><img alt="Lattes" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/lattes.svg"></a>&nbsp;
+<a href="https://www.kaggle.com/robsonsmar" target="_blank"><img alt="Kaggle" width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/kaggle.svg"></a>&nbsp;
 
 #### Main projects
 
