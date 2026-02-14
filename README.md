@@ -32,10 +32,13 @@ Master's student in Electrical Engineering. Software development analyst, specia
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/OSS%20Status-Healthy-darkgreen.svg">
 
-- [USB Flash/EPROM Programmer](https://github.com/robsonsmartins/usbflashprog)
 - [Free Publication Downloader](https://github.com/robsonsmartins/php-projects/tree/master/free-pub-downloader)
 
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/OSS%20Status-Dormant-blue.svg">
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/OSS%20Status-Paused-orange.svg">
+
+- [USB Flash/EPROM Programmer](https://github.com/robsonsmartins/usbflashprog)
+
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/OSS%20Status-Dormant-lightgray.svg">
 
 - [Python (ML/IA/NLP) Projects](https://github.com/robsonsmartins/python-projects)
 - [Android MIDI Synth](https://github.com/robsonsmartins/android-midi-synth)
