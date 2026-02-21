@@ -11,9 +11,9 @@ Master's student in Electrical Engineering. Software development analyst, specia
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/c.svg"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/cpp.svg"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/python.svg"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/kotlin.svg"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/PHP" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/php.svg"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/javascript.svg"></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/kotlin.svg"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/flutter.svg"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/asm.svg"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"><img width="36px" src="https://raw.githubusercontent.com/robsonsmartins/robsonsmartins/master/images/rust.svg"></a>&nbsp;
